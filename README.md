@@ -5,6 +5,7 @@ Last revised: 2026-08
 -->
 
 <p align="center">
+    <a href="https://kiin-que.github.io/"><img src="https:&#47;&#47;img.shields.io/badge/Portfolio-kiin--que.github.io-4A6572?style=flat-square" alt="Portfolio"></a>
   <a href="https://haeonkorean.com/"><img src="https://img.shields.io/badge/HAEON_Korean-haeonkorean.com-0D6F78?style=flat-square" alt="HAEON Korean"></a>
   <a href="https://haeumkorean.me/"><img src="https://img.shields.io/badge/Haeum_Korean-haeumkorean.me-5A6B6E?style=flat-square" alt="Haeum Korean"></a>
   <a href="https://blog.naver.com/haeumkorean"><img src="https://img.shields.io/badge/Naver_Blog-haeumkorean-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Blog"></a>
@@ -43,7 +44,7 @@ Last revised: 2026-08
 | --- | --- | --- |
 | **HAEON Korean** | 현재 개발 중인 한국어 교육 웹사이트. 발음 점검, 수업, 학습 자료와 교육 활동을 하나의 흐름으로 연결하는 Astro 기반 서비스 | [개발 중인 웹사이트](https://haeonkorean.com/) · [저장소](https://github.com/Jasujung99/korean-hae-on-web) |
 | **Haeum Korean** | 한국어 교육, 인문학 프로그램, 문화 교류 활동을 잇는 공개 공간 | [웹사이트](https://haeumkorean.me/) · [네이버 블로그](https://blog.naver.com/haeumkorean) |
-| **Local Discord AI Bot** | Ollama·llama.cpp 기반 로컬 언어모델을 Discord와 연결하는 Python 봇. 제한된 권한, 자동 시작·감시, 시험·CI 포함 | [저장소](https://github.com/Jasujung99/local-discord-bot-open) |
+| | **포트폴리오** | '온점과 물음표'를 바탕으로 편지, 언어·교류, 사유·문장, 기획·실험 등 질문과 작업 기록을 엮은 개인 포트폴리오 및 에세이 웹사이트 | [웹사이트](https://kiin-que.github.io/) |
 | **HAEON Design System** | 브랜드 색상·문자·로고·모티프 규칙을 문서와 웹 산출물에 일관되게 적용하기 위한 체계 | [저장소](https://github.com/Jasujung99/claude-haeon-designsystem) |
 
 ## 다루는 도구
