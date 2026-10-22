@@ -42,6 +42,7 @@ Last revised: 2026-08
 
 | 작업 | 내용 | 링크 |
 | --- | --- | --- |
+| **hwpctl** | 짧은 요청을 실제로 고칠 수 있는 한글(HWP/HWPX) 문서로 만들거나, 이미 있는 문서를 정확하게 고치는 AI 에이전트용 스킬. 쪽 구성 계획 → 알맞은 도구 고르기 → 결과 확인 → 화면과 저장 파일 검증 순서로 일함 | [Agensi](https://www.agensi.io/skills/hwpctl-create-design-edit-hancom-hangul-documents) |
 | **HAEON Korean** | 현재 개발 중인 한국어 교육 웹사이트. 발음 점검, 수업, 학습 자료와 교육 활동을 하나의 흐름으로 연결하는 Astro 기반 서비스 | [개발 중인 웹사이트](https://haeonkorean.com/) · [저장소](https://github.com/Jasujung99/korean-hae-on-web) |
 | **Haeum Korean** | 한국어 교육, 인문학 프로그램, 문화 교류 활동을 잇는 공개 공간 | [웹사이트](https://haeumkorean.me/) · [네이버 블로그](https://blog.naver.com/haeumkorean) |
 | | **포트폴리오** | '온점과 물음표'를 바탕으로 편지, 언어·교류, 사유·문장, 기획·실험 등 질문과 작업 기록을 엮은 개인 포트폴리오 및 에세이 웹사이트 | [웹사이트](https://kiin-que.github.io/) |
@@ -91,6 +92,7 @@ I work across language education, human-centered AI, web development, automation
 
 ### Selected public work
 
+- [hwpctl](https://www.agensi.io/skills/hwpctl-create-design-edit-hancom-hangul-documents) — An agent skill for creating and precisely editing Hancom Hangul (HWP/HWPX) documents
 - [HAEON Korean](https://haeonkorean.com/) — website in development · [Source](https://github.com/Jasujung99/korean-hae-on-web)
 - [Haeum Korean](https://haeumkorean.me/) · [Naver Blog](https://blog.naver.com/haeumkorean)
 - [Local Discord AI Bot](https://github.com/Jasujung99/local-discord-bot-open)
